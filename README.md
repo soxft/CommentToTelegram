@@ -11,7 +11,7 @@ A typecho plugin which can prevent you from receive spam comments
 ## 介绍
 1.一款您可以将typecho评论推送至telegram bot的插件
 ## 使用
-1.下载本仓库后解压至 /usr/plugins文件夹并重命名为`UrlSpam`<br />
+1.下载本仓库后解压至 /usr/plugins文件夹并重命名为`CommentToTelegram`<br />
 2.设置插件内的tokne与id
 ## 注意
 服务器必须可以访问api.telegram.org
